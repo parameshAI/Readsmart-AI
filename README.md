@@ -36,7 +36,7 @@ NumPy
  *Create a new cell and run:
  (!pip install gradio pypdf faiss-cpu sentence-transformers transformers numpy)
 
-▶️ How to Run
+# How to Run
 
 Install dependencies using the command above
 
@@ -48,7 +48,7 @@ Open the Gradio public link
 
 Upload a PDF and start interacting
 
-# How It Works (Under the Hood)
+# How It Works 
 
 PDF Ingestion
 Extracts text from uploaded PDFs using PyPDF.
@@ -65,12 +65,12 @@ FLAN-T5 generates answers based on retrieved context.
 Summarization
 BART produces concise study notes from document content.
 
-#output Screenshots (Optional)
- (Readsmart_AI home)
+#output Screenshots 
+ # (Readsmart_AI home)
  ![home](readsmart-home.png)
- (ask_qustions feature)
+ # (ask_qustions feature)
  ![home](ask-qusetion.png) 
- (generate feature)
+ # (generate feature)
  ![home](genrate-notes.png) 
 
 # Why This Project?
@@ -91,6 +91,6 @@ Support multiple PDFs
 Add conversational memory
 Deploy on Hugging Face Spaces
 
-#Author
+# Author
 parameshwar d
 B.Sc Artificial Intelligence & Machine Learning
