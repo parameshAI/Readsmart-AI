@@ -66,43 +66,27 @@ Summarization
 BART produces concise study notes from document content.
 
 #output Screenshots (Optional)
+ ![home](readsmart-home.png)     ![home](ask-qusetion.png)       ![home](genrate-notes.png) 
 
-Add screenshots of the Gradio interface here.
-
-Ask Questions Tab ❓
-
-Generate Notes Tab 📝
-
-🎯 Why This Project?
+# Why This Project?
 
 Demonstrates core NLP fundamentals
-
 Avoids fragile dependencies and API keys
-
 Shows hands-on understanding of:
-
 Embeddings
-
 Vector databases
-
 Retrieval-Augmented Generation (RAG)
-
 Transformer models
-
 Suitable for internships, placements, and academic evaluation
 
-🚀 Future Improvements
+# Future Improvements
 
 Download notes as PDF
-
 Support multiple PDFs
-
 Add conversational memory
-
 Deploy on Hugging Face Spaces
 
-👤 Author
-
-[Your Name]
+ Author
+parameshwar d
 B.Sc Artificial Intelligence & Machine Learning
 Interested in NLP, Deep Learning, and AI-powered applications
