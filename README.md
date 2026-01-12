@@ -1,4 +1,4 @@
-#ReadSmart AI (Local & Privacy-First)
+# ReadSmart AI 
 (ReadSmart AI is a secure, privacy-first AI application that allows students to chat with PDF study materials and generate concise study notes using modern NLP and Transformer models.)
 
 Unlike many AI tools, this project runs entirely locally using open-source models.
@@ -66,7 +66,12 @@ Summarization
 BART produces concise study notes from document content.
 
 #output Screenshots (Optional)
- ![home](readsmart-home.png)     ![home](ask-qusetion.png)       ![home](genrate-notes.png) 
+ (Readsmart_AI home)
+ ![home](readsmart-home.png)
+ (ask_qustions feature)
+ ![home](ask-qusetion.png) 
+ (generate feature)
+ ![home](genrate-notes.png) 
 
 # Why This Project?
 
