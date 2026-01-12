@@ -66,11 +66,11 @@ Summarization
 BART produces concise study notes from document content.
 
 #output Screenshots 
- # (Readsmart_AI home)
+ # Readsmart-AI home
  ![home](readsmart-home.png)
- # (ask_qustions feature)
+ # ask-qustions feature
  ![home](ask-qusetion.png) 
- # (generate feature)
+ # generate feature
  ![home](genrate-notes.png) 
 
 # Why This Project?
