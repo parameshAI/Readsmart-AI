@@ -1,10 +1,10 @@
- ReadSmart AI (Local & Privacy-First)
+#ReadSmart AI (Local & Privacy-First)
 (ReadSmart AI is a secure, privacy-first AI application that allows students to chat with PDF study materials and generate concise study notes using modern NLP and Transformer models.)
 
 Unlike many AI tools, this project runs entirely locally using open-source models.
-✅ No external APIs
-✅ No API keys
-✅ No data leaves the session
+* No external APIs
+* No API keys
+* No data leaves the session
 
 # Key Features
 
@@ -86,7 +86,6 @@ Support multiple PDFs
 Add conversational memory
 Deploy on Hugging Face Spaces
 
- Author
+#Author
 parameshwar d
 B.Sc Artificial Intelligence & Machine Learning
-Interested in NLP, Deep Learning, and AI-powered applications
